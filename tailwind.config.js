@@ -8,6 +8,7 @@ module.exports = {
   ],
   theme: {
     colors: {
+      'transparent':'transparent',
       'mustard': '#FFD700',
       'slate': '#2D4152',
       'white': '#FFFFFF',
