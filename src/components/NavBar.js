@@ -14,7 +14,7 @@ function NavBar(){
         <>
         <nav className="flex justify-between items-center h-24 max-w-[1240px] mx-auto text-white px-4">
             {/* <img className="h-40 w-48" src={logo} alt="Roc Advisor - mountain outline"/> */}
-            <h1 className="w-1/2 text-3xl font-bold text-yellow z-10" > ROC ADVISORS.</h1>
+            <h1 className="w-1/2 text-3xl font-bold text-yellow z-10" > <Link to={'/'}>ROC ADVISORS. </Link></h1>
             <ul className="hidden md:flex">
                 <li className="p-4"> <Link to={'/value'}> Value Proposition</Link> </li>
                 <li className="p-4"> <Link to={'/solution'}> Solutions</Link></li>
