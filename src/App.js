@@ -6,6 +6,7 @@ import ValueProp from "./pages/ValueProp";
 import SolutionPage from "./pages/SolutionPage";
 import AboutPage from "./pages/AboutPage";
 import Footer from "./components/Footer";
+import ContactPage from "./pages/ContactPage";
 
 function App() {
   return (
@@ -14,8 +15,9 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/value" element={<ValueProp />} />
-        <Route path="/solutions" element={<SolutionPage />} />
+        <Route path="/solution" element={<SolutionPage />} />
         <Route path="/about" element={<AboutPage />} />
+        <Route path="/contact" element={<ContactPage />} />
       </Routes>
       <Footer />
     </Router>
