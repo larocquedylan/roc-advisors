@@ -4,6 +4,7 @@ function Footer(){
         <a href="mailto: justin.l@rocadvisors.ca"> justin.l@rocadvisors.ca</a>
         <p> &copy; 2023 Roc Advisors </p>
         <a href="tel: 780-691-5704"> 780-691-5704</a>
+        <a href="https://www.linkedin.com/in/justin-larocque/?originalSubdomain=ca"> Justin Larocque </a>
         </div>
     );
 };

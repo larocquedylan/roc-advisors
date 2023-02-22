@@ -30,7 +30,7 @@ function NavBar(){
                     <li className="p-4 border-b border-slate-light"> <Link to={'/solution'}> Services</Link></li>
                     <li className="p-4 border-b border-slate-light"> <Link to={'/about'}> About</Link></li>
                     <li className="p-4 border-b border-slate-light"> <Link to={'/contact'}> Contact</Link></li>
-
+                    
                 </ul>
             </nav>
         </nav>

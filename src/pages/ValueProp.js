@@ -1,7 +1,7 @@
 function ValueProp(){
     return (
         <div className="xl: max-w-[1240px] w-full mx-auto text-center flex items-center flex-col justify-center text-white">
-            <h2 className=""> Purpose</h2>
+            <h2 className="text-yellow text-lg"> Purpose</h2>
         <p> Why: Small and medium-sized businesses in Alberta are struggling to manage their finances due to a lack of access to professional finance services, while at the same time, some businesses are facing the challenge of bloated accounting teams, which can lead to decreased capital efficiency and lower profitability. </p>
         
         <p>What?: We offer a unique ecosystem that provides access to a team of highly engaged and knowledgeable finance professionals. Our team works with businesses to provide customized solutions that meet their unique needs, ensuring that their financials are always on track. </p>
